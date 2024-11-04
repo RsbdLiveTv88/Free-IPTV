@@ -1,31 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts
-#EXTINF:3.0000,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/117.ts 
 
-
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgW_bqU31Kppp3aCzdJhUbxmzZEmM29QaVQdI-PVIOlPRq0wSjIhOD-al-&s=10" group-title="JagoBD",Asian TV 
-https://mtlivestream.com/asian/ytlive/index.m3u8 
-
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="JagoBD",ATN Bangla 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" group-title="JagoBD", Ananda TV 
+da-TV.png" group-title="JagoBD", Ananda TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8 
 
 #EXTINF:-0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="JagoBD",ATN Islamic 
