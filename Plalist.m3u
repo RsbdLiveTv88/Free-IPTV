@@ -233,8 +233,7 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://iptvcable.netlify.app/M3U8/POGO.m3u8
 #EXTINF:-1 group-title="рќ—ћрќ—¶рќ—±рќЂ" tvg-logo="https://i.ibb.co/tpzX0DM/IMG-20240126-095849.png",рќ™Ћрќ™‹рќјрќѕрќ™Ђрќ™Џрќ™Љрќ™Љрќ™‰
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="рќ——рќ—јрќ—°рќ‚рќ—єрќ—Ірќ—»рќЃрќ—јрќ—їрќ†" tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png",рќ™’рќ™ћрќ™Ўрќ™™ рќ™Ђрќ™–рќ™§рќ™©рќ™ќ(рќЅрќї)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQld2MfEPHw7wvLuecJiACbUxhNJ58a8GLdYGirDmIkTsG-nyZiKTq9WB8&s=10" group-title="Grope Name", WILDEARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-768x512.png",SIAM 
@@ -263,11 +262,11 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkgCbF1b/20241016-114302.png" group-title="Grope Name", Amar-digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imotv.online/uploads/tv_image/mon-tv-bangla.png" group-title="Grope Name", Mon-tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fy6YjKN/20241013-145347.jpg" group-title="Grope Name", Mon-tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/88Xwqpx/Star-Jalsha-logo-2023.png" group-title="",Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCvmzFWg/20241108-175809.png" group-title="",Star Jalsha
 
 https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=d313d92abd63a501d764ab4b85aedeb9cc64b017-6210a5f68466cf2c720e31b610399c7f-1730563365-1730552565
 
