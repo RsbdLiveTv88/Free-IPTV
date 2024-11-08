@@ -2,48 +2,13 @@
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="SPORTS", BAN vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=10" group-title="Grope Name", SPORTS 18
+http://stream247.live:8080/sports18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFg39mv7/20241005-165038.png" group-title="Grope Name", T Sports
 http://starshare.live:8080/live/sachin/sachin/767.m3u8     
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="Grope Name", Gazi Tv
 https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=10" group-title="Grope Name", SPORTS 18
-http://stream247.live:8080/sports18/index.m3u8
-টফি
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION 
-https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="HINDI",SONY MAX 
-https://toffee.iptvbd.xyz/api/sony_max.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="HINDI",B4U Movies VIP 
-https://toffee.iptvbd.xyz/api/b4u_movies.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC",B4U Music VIP 
-https://toffee.iptvbd.xyz/api/b4umusic.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="SPORTS",SONY SPORTS TEN 1 HD 
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="SPORTS",SONY SPORTS TEN 2 HD 
-https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="SPORTS",SONY SPORTS TEN 3 HD 
-https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="SPORTS",SONY SPORTS TEN 5 HD 
-https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="KOLKATA",Sony Aath
-https://toffee.iptvbd.xyz/api/sony_aath.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="HINDI",SONY MAX HD 
-https://toffee.iptvbd.xyz/api/set_max_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="HINDI",SONY ENTERTAINMENT TELEVISION HD 
-https://toffee.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="HINDI",SONY SAB HD 
-https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="HINDI",SONY MAX 2 
-https://toffee.iptvbd.xyz/api/sony_max_2.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="HINDI",SONY WAH 
-https://toffee.iptvbd.xyz/api/sony_wah.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="HINDI",SONY PIX HD 
-https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="DOCUMENTORY",SONY BBC EARTH HD 
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="KIDS",SONY YAY BANGLA 
-https://toffee.iptvbd.xyz/api/sony_yay.m3u8 
 __________
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8 
