@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="SPORTS", Bangladesh Vs Afghanistan 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="SPORTS", BAN vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFg39mv7/20241005-165038.png" group-title="Grope Name", T Sports
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8   
