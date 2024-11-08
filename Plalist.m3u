@@ -299,18 +299,16 @@ Kolkata
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s3n88XN/images-3.png" group-title="",Ropushi Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKv6tBK4wPHO6Nb2LMNn1RCldpWa3F9RA0rSfNhMG8dn5CZuIeXi51JCU&s=10" group-title="",Ropushi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z8p4QBv/images.png" group-title="",TV9Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpu4y6KGiaq6_YoR6l9hD3mYqaI75KdyhLTorLFieg8naXX4BuK6yxzs&s=10" group-title="",TV9Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QHhmPkQ/download.jpg" group-title="",Zee Bangla Cinema
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBvKwK7/images.jpg" group-title="",Jalsha Movies
-https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=a90c43b280dafdc2f0377dfac318e37d397d620f-9d82a922794a31a1b4e451a446abb3ed-1730563357-1730552557
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A-2sHUleoG5tC1nG5S0G04h4ODaRV0qYuSqY_JUc-dvYSlO4dEVnf3jAAdjbGUwOO_ylw9Sy7Q=s900-c-k-c0x00ffffff-no-rj" group-title="KOLKATA", Zee Bangla Cinema
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10" group-title="",Jalsha Movies
+https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="", Bangla Pulas
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 
@@ -351,5 +349,5 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U MUSIC
 https://cdn2.pishow.tv/live/141/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg",Music India
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSica3chpLVB_Ryr8QT-qnxqk5clR8ou1WscprqdD9w8Cu-YwB9bUcm6OXS&s=10",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8 
