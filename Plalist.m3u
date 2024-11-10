@@ -25,14 +25,17 @@ http://54.38.79.60:2020/sananda/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",SANGEET BANGLA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8 
-
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://files.catbox.moe/33iec7.png",Amar Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8 
-
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://files.catbox.moe/jzhv1f.png",Amar Digital 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fy6YjKN/20241013-145347.jpg" group-title="Grope Name", Mon-tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aB9kpZngTtp3usFm1i6X4E_9zBlCwq3b43LiVUEXfplqRK7Ye1y_CqSgkjWNXuhGPWqb" group-title="", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
+http://103.113.149.202:8000/play/a025/index.m3u8 
 __________
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV 
 https://mtlivestream.com/asian/ytlive/index.m3u8 
@@ -253,9 +256,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 xxxxxxxx
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aB9kpZngTtp3usFm1i6X4E_9zBlCwq3b43LiVUEXfplqRK7Ye1y_CqSgkjWNXuhGPWqb" group-title="", Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IqBuvdfizQ6GK78PY7nHxAYEqJK4b6YM170kvq-w-gkY21PlJ2oARaoy_6wjbyPjOQGzcKb1=s900-c-k-c0x00ffffff-no-rj",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
@@ -297,8 +297,6 @@ https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A-2sHUleoG5tC1nG5S0G04h4ODaRV0qYuSqY_JUc-dvYSlO4dEVnf3jAAdjbGUwOO_ylw9Sy7Q=s900-c-k-c0x00ffffff-no-rj" group-title="KOLKATA", Zee Bangla Cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ItNbKDi8zqEWZNg40OpVW0hQEoiXGLF9_Q&usqp=CAU", Khushboo TV Bangla
-https://cdn3.pishow.tv/live/283/master.m3u8  
 
 #EXTINF:-1 tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png",SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
