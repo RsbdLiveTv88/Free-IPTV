@@ -13,6 +13,8 @@ http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10" group-title="",Jalsha Movies
 http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts= 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
 https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=w4pQJ_emaMaXpGaM9ojqCA&expires=1730736069&user=98fbbc7885a9470e920abab5d870f7c3 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla
@@ -284,8 +286,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 Kolkata
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKv6tBK4wPHO6Nb2LMNn1RCldpWa3F9RA0rSfNhMG8dn5CZuIeXi51JCU&s=10" group-title="",Ropushi Bangla
 https://cdn3.pishow.tv/live/281/master.m3u8
