@@ -2,6 +2,14 @@
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_753607001730650681.png" group-title="SPORTS", BAN vs AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg"group-title="Live Sports" group-title="",Live Toffee Afghanistan vs Bangladesh 
+https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP 
+https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama 
+https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDyqDJKG/landscape-original-poster-021730001725875728.png"group-title="MOVIS" group-title="",TOFFEE MOVIES 
+https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=10" group-title="Grope Name", SPORTS 18
 http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFg39mv7/20241005-165038.png" group-title="Grope Name", T Sports
