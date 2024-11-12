@@ -9,6 +9,78 @@ http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="Grope Name", Gazi Tv
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8  
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8pWA8ua6HT2jbx4Qfl0yvymFGkHYbslSkUSMKKwG1LP5lrvVy4s_XWAY&s=10" group-title="𝙏𝙊𝙁𝙁𝙀𝙀", BAN vs AFG VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=1c522062fe5d&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_682155001703738032.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀", TOFFEE SPORTS VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀", TOFFEE MOVIE VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀", TOFFEE DRAMAS VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY ENTERTAINMENT TELEVISION
+https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY MAX
+https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",B4U Movies VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",B4U Music VIP
+https://bdix-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY SPORTS TEN 1 HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY SPORTS TEN 2 HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY SPORTS TEN 3 HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY SPORTS TEN 5 HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",Euro Sport HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=258468998307&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",Euro Sport
+https://bdix-toffee.iptvbd.xyz/live.php?id=5221aff96f3c&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",Sony Aat
+https://bdix-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY MAX HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY ENTERTAINMENT TELEVISION HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY SAB HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=b7167fe646a4&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY MAX 2
+https://bdix-toffee.iptvbd.xyz/live.php?id=420510be5c17&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY WAH
+https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY PIX HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY BBC EARTH HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=a6497ebbf14f&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",ANIMAL PLANET HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=f70ef199f41d&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",ANIMAL PLANET SD
+https://bdix-toffee.iptvbd.xyz/live.php?id=52d1df2fdb80&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",DISCOVERY HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=77e72f2ba472&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",DISCOVERY SD
+https://bdix-toffee.iptvbd.xyz/live.php?id=a1c4e01414e7&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",DISCOVERY SCIENCE 
+https://bdix-toffee.iptvbd.xyz/live.php?id=591ea81b1aba&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",DISCOVERY TURBO HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=a051de5ade20&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",Investigation Discovery HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=6789650f5629&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",Investigation Discovery 
+https://bdix-toffee.iptvbd.xyz/live.php?id=05715523849a&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",TLC HD
+https://bdix-toffee.iptvbd.xyz/live.php?id=090bf33a56cb&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",TLC 
+https://bdix-toffee.iptvbd.xyz/live.php?id=e12a84713a40&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",SONY YAY BANGLA
+https://bdix-toffee.iptvbd.xyz/live.php?id=57bd9c2493c1&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",DISCOVERY KIDS
+https://bdix-toffee.iptvbd.xyz/live.php?id=1fe9cf550c24&e=.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="𝙏𝙊𝙁𝙁𝙀𝙀",CARTOON NETWORK HD+
+https://bdix-toffee.iptvbd.xyz/live.php?id=206c4fa8e760&e=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCvmzFWg/20241108-175809.png" group-title="",Star Jalsha
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10" group-title="",Jalsha Movies
