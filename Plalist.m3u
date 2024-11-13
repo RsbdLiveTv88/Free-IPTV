@@ -3,10 +3,8 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=10" group-title="Grope Name", SPORTS 18
 http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFg39mv7/20241005-165038.png" group-title="Grope Name", T Sports
-http://bapatv.live:8080/tsports2/index.m3u8 
-http://172.16.29.2:8080/hls/tsportsfhd.m3u8       
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="Grope Name", Gazi Tv
-http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8  
+http://bapatv.live:8080/tsports2/index.m3u8        
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vky8DySW/20241005-162825.png" group-title="Grope Name", Gazi Tv  
 http://bapatv.live:8080/gtv2/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCvmzFWg/20241108-175809.png" group-title="",Star Jalsha
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8 
