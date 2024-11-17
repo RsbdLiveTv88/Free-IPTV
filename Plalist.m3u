@@ -9,11 +9,11 @@ http://bapatv.live:8080/gtv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCvmzFWg/20241108-175809.png" group-title="",Star Jalsha
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10" group-title="",Jalsha Movies
-http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8 
+http://172.16.29.2:8080/hls/jalshami.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FnzYG8W/images-2.png" group-title="",Colors Bangla 
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts= 
+http://172.16.29.2:8080/hls/colorsbanglabd.m3u8  
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CzLncgL/images-1.jpg" group-title="",Zee Bangla HD
-http://bapatv.live:8080/zeebangla/index.m3u8  
+http://172.16.29.2:8080/hls/zeebanglahd.m3u8   
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg" group-title="",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTio8aWY06JRXcDvy0983Xa3JR9bwG2jRE-irQbJEs__LV-u4S2lsI5X8Q&s=10" group-title="KOLKATA", SONY AATH
