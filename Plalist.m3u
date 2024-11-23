@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" group-title="Grope Name", BAN v WI
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=S1w6RqGWIFfDUUH9WHkIng&expires=1732574882&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMmL5rJgeicFQr1zQpvAFagv3f30R-rbeCLq7DjgaYQ27CKCNs8k4fWsw&s=10" group-title="Grope Name", T-Sports
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8  
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=pSz_jmO_-TYq2KE7IOmtmQ&expires=1732574023&user=d477246e9e724f81a011b847457e71c4   
 #EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN News
