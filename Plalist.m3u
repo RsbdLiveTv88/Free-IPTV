@@ -2,10 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBLcNLLH/20241123-180648.png" group-title="Grope Name", BAN vs WI 
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=S1w6RqGWIFfDUUH9WHkIng&expires=1732574882&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Grope Name", T10
+https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=7gLGpw9EuuwTGSgvIoG9Iw&expires=1732575059&user=d477246e9e724f81a011b847457e71c4 
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Grope Name", T10
-http://alvetv.com/moviebanglatv/8080/index.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4I28ckEcQFpxVvTYU_-9ZdR3fQqk8O9V0Q&usqp=CAU" group-title="Grope Name", PTV SPORTS
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/15747695_1210463845686816_6805703572401730664_n.jpg" group-title="Grope Name", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8 
 
