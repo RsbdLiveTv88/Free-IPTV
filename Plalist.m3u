@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBLcNLLH/20241123-180648.png" group-title="Grope Name", BAN vs WI 
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=Uh5UuzXrEdYq1dYn8DWb0Q&expires=1733507224&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=hfW7VGnr8C-nKFChA4WKbw&expires=1733506677&user=d477246e9e724f81a011b847457e71c4 
+ http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=jiyymtrjPv8qZkcFyYHYGg&expires=1733506321&user=d477246e9e724f81a011b847457e71c4
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=1" group-title="Grope Name", Sports 18
 http://stvlive.net:8080/sports18/tracks-v1a1/mono.m3u8   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4I28ckEcQFpxVvTYU_-9ZdR3fQqk8O9V0Q&usqp=CAU" group-title="Grope Name", PTV SPORTS
