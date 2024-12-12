@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBLcNLLH/20241123-180648.png" group-title="Grope Name", BAN vs WI 
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=KsEdJSRZqHRuwwSolfV32A&expires=1734110544&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
- http://103.240.4.59:8080/tsports/index.fmp4.m3u8?token=a99d957dc45fd3b3b6a4555ef197c10bb8e992c4-29eec1e0065d83bec5bfee9f3e48f02f-1733905721-1733894921
+http://103.240.4.59:8080/tsports/index.fmp4.m3u8?token=a99d957dc45fd3b3b6a4555ef197c10bb8e992c4-29eec1e0065d83bec5bfee9f3e48f02f-1733905721-1733894921
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=wgh6kVzcEsR83cOFMundfA&expires=1734110496&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=1" group-title="Grope Name", Sports 18
@@ -13,7 +13,7 @@ http://69.30.206.90/ptv-pk/index.fmp4.m3u8?token=bfa8c881bc2fe75605568feed5a00fb
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://103.175.242.10:8080/starjalsha/index.m3u8
+http://180.92.238.118:8080/starjalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES SD
 http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FColors_Bengali_HD_voot.png&w=256&q=75" group-title="KOLKATA", Colours Bangla 
