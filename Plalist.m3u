@@ -1,167 +1,341 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBLcNLLH/20241123-180648.png" group-title="Grope Name", BAN vs WI 
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=PIfnqb4V-sdBlxEuCGagaw&expires=1734389716&user=d477246e9e724f81a011b847457e71c4 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=LcjzTcCkx9YXVx56GtOJIw&expires=1734389812&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=njgluA6tl4LYxpS52ZvZCg&expires=1734389776&user=d477246e9e724f81a011b847457e71c4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPy9x-0-7LvZiDTSPPGWNiNLSXfXOdScheIYym-e495Q97zQGulkv2ReA&s=1" group-title="Grope Name", Sports 18
-http://stvlive.net:8080/sports18/tracks-v1a1/mono.m3u8   
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4I28ckEcQFpxVvTYU_-9ZdR3fQqk8O9V0Q&usqp=CAU" group-title="Grope Name", PTV SPORTS
-http://69.30.206.90/ptv-pk/index.fmp4.m3u8?token=bfa8c881bc2fe75605568feed5a00fb81e49adef-47ab419fa6c850be53c2aa1241e514f8-1733146458-1733135658
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
-http://180.92.238.118:8080/starjalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q7uapuWTAVRaD039RIlS1megRzg0sL3rT441eQJyIA7uvtkKBuIm4Yg&s=10" group-title="KOLKATA", JALSHA MOVIES SD
-http://bapatv.live:8080/jalshamovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FColors_Bengali_HD_voot.png&w=256&q=75" group-title="KOLKATA", Colours Bangla 
-http://stvlive.net:8080/colorsbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Grope Name", Sananda Tv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FszS7Qz0/20241123-181647.png" group-title="Grope Name", Tara Bangla Cinema 
-http://103.145.48.150:90/laosat24/taratv/index.m3u8 
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkR9B8oQ7I-2MQvDxDrn7iV-nEk13jiwIZjA&usqp=CAU" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=cWmpXYswCHQg_j4g8vbjdQ&expires=1734388899&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=zsIlSZ2j-casB2EDxTPhMw&expires=1734388907&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=Kxx_6NET6t640naS86wpEQ&expires=1734388921&user=d477246e9e724f81a011b847457e71c4 
-#EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/15747695_1210463845686816_6805703572401730664_n.jpg" group-title="Grope Name", Movie Bangla 
-http://alvetv.com/moviebanglatv/8080/index.m3u8 
-
-
-
-#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=xgNPbDLaNCvmwXbE_qJ5IQ&expires=1734389909&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=FKqpFKEgG-3gd4kL_Z-Yww&expires=1734388583&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Al Jazeera English HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8 
-#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ananda TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8  
-
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Arirang
-https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=LzJJBuxPik9Cac32p60agA&expires=1734388594&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Asian Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Asian Tv
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=6RHlXtykPa6wFH84_6W9Xw&expires=1734388599&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC Lifestyle
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=u4GKa1TBCSods2YVPgocdA&expires=1734388605&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="BBC World" tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=UiWphKY8PdRZivx2H5Q8kQ&expires=1734388610&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="BTV World" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",BTV World
- 
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla TV
-https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=p0MrhZGhrtrxuVC6XD300g&expires=1733850236&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bangla Vision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=QyuMgT2Fct-hpS-cuc5f7Q&expires=1734388622&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Bijoy TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=lPGAIEwr_AslOEcqWRv1hQ&expires=1734110377&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Boishakhi Tv" tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Boishakhi Tv
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=d6IupyGHethytz8tIkpj6Q&expires=1734388628&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="CBEEBIES Asia" tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CBEEBIES Asia
-https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=804NM8O6O1OQT4q-Lln7NQ&expires=1734388637&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="CGTN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CGTN News
-https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=ZgPa3hjGhPShEE6ksTWOFA&expires=1733850269&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",CNN
-https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=cQoxmGvjE_4CL_Paw-NnIA&expires=1734388644&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=vddWZJepzDCLmYOodWfrzA&expires=1734388649&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=qRaRl9-2FJN_s2yQeUeIJg&expires=1734388653&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=tldsE7T4wIUy0WqzmMBeNA&expires=1734388660&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=ZAeKMU6WfKkONPYA8onxsw&expires=1734388666&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",DW
-https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=FgqEfeYlRyBenEOzHExz3Q&expires=1734388681&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=M-fAOyccVd2pVvXGuSbdnw&expires=1734388693&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4CfF8DO73YRrwEy8BaKuc769Th5lZI9d5NVCVHoxEPWnGiqHtl35S2PC8&s=10" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=3Xa5FqrzsRG5dsgB4SIUOA&expires=1734388700&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Duronto TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=UMTqN14GEukBJ5kXbaWxkA&expires=1734388705&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ekattor TV
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=1KNButmsePShBp26VyBNIQ&expires=1734388713&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.pngo" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=0RosHBhrpF1fTaglJB9-Zg&expires=1734388720&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Fox Action Movies" tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Fox Action Movies
-https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/playlist.m3u8?md5=ugVfF16GCT7Ft9KHH-5SSg&expires=1733850360&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gaan Bangla
-http://103.175.242.10:8080/gaanbangla/index.m3u8 
-
-#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=sKNPqLD3j0is0rk1aPbB6A&expires=1734388740&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=mFuUwY0wiE72-Z3Ks_J5tw&expires=1733850379&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Jamuna TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=3GeXJCzUqF4RWMdhM809Nw&expires=1734110506&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="MACAU Lotus" tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",MACAU Lotus
-https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=U5gYiBgzZfzFVOz0oj3b3w&expires=1734388787&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Maasranga
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",NHK World
-https://edge01.iptv.digijadoo.net/live/nhk_world/playlist.m3u8?md5=aK4gd8RQTUuBH_xUWqa3jw&expires=1734388802&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",NTV
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=YzktlgHBCobxgWfXwdqSDA&expires=1734388808&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=iBPS7a8QRVFTb7YpbD5zaw&expires=1734388814&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="News 24 HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",News 24 HD
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=RFsWAJI2lQoKXUy6eUJctQ&expires=1734388821&user=d477246e9e724f81a011b847457e71c4  
-
-#EXTINF:-1 tvg-name="Nexus TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Nexus TV
-https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=hC5aLcloKGevGPKSQloJUw&expires=1733850442&user=d477246e9e724f81a011b847457e71c4 
-
-#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Quran TV
-https://edge01.iptv.digijadoo.net/live/quran_tv/playlist.m3u8?md5=PyTJQMxhmUjlytyw674AYA&expires=1733850449&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="RT English" tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RT English
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=B3yPsd5JLqWwU742SBT_Ww&expires=1734388838&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",RTV
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=xzdXadXgBNm7gYzya55Yig&expires=1734110571&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",SA TV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=SctURydjyGp2CSUbCpXInQ&expires=1734388846&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="Somoy News" tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Somoy News
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=cHLJWDgC-u2zsOnXHk9tog&expires=1734388854&user=d477246e9e724f81a011b847457e71c4
-
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",T Sports HD
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=YqHinGfh7WysJ_2nzkSpRA&expires=1734388862&user=d477246e9e724f81a011b847457e71c4
-
+#EXTINF:-1 tvg-id="5", Bangla Vision
+https://tvs2.aynaott.com/banglavision/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="6", Channel I
+https://tvs2.aynaott.com/channeli/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="8", NTV
+https://tvs2.aynaott.com/ntv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="10", ATN Bangla
+https://tvs2.aynaott.com/atnbangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="12", Maasranga TV
+https://tvs2.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="19", Gazi TV
+https://tvs2.aynaott.com/gtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="26", Deepto TV
+https://tvs2.aynaott.com/deeptotv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="28", T Sports
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="73", Star Sports 1 HD
+https://tvs2.aynaott.com/ssport1hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="74", Star Sports 2 HD
+https://tvs2.aynaott.com/ssport2hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="77", Sports 18
+https://tvs2.aynaott.com/sports18/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="1", BTV National
+https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="2", BTV World
+https://tvs1.aynaott.com/btv_world/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="4", BTV Chattogram
+https://tvs1.aynaott.com/btvctg/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="7", Ekushey TV
+https://tvs1.aynaott.com/etv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="9", Independent TV
+https://tvs1.aynaott.com/independenttv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="11", Boishakhi TV
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="13", Desh TV
+https://tvs1.aynaott.com/deshtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="14", My TV
+https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="15", ATN News
+https://tvs1.aynaott.com/atnnews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="16", Mohona TV
+https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="17", Bijoy TV
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="18", Somoy News TV
+https://tvs1.aynaott.com/somoytv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="19", Gazi TV HD
+https://tvs1.aynaott.com/gtvhdforgame/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="20", Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="21", Channel 24
+https://tvs1.aynaott.com/channel24/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="22", Gaan Bangla
+https://tvs1.aynaott.com/gaanbangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="23", Ekattor TV
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="24", Asian TV
+https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="25", SA TV
+https://tvs1.aynaott.com/satv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="27", Jamuna TV
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="28", T Sports HD
+https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="29", DBC News
+https://tvs1.aynaott.com/dbcnews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="30", News 24
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="31", Movie Bangla
+https://tvs1.aynaott.com/moviebangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="32", Bangla TV
+https://tvs1.aynaott.com/banglatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="33", Nexus TV
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="34", Ananda TV
+https://tvs1.aynaott.com/anandatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="35", Global TV
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="38", Duronto TV
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="42", IQRA Bangla TV
+https://tvs2.aynaott.com/iqrabangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="43", Sangeet Bangla
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="41", B4U Music
+https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="39", Ekhon TV
+https://tvs1.aynaott.com/ekhontv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="70", Medibiz TV
+https://tvs1.aynaott.com/medibiztv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="75", Sky News
+https://tvs2.aynaott.com/skynews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="76", History Channel
+https://tvs2.aynaott.com/historyen/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="80", Star Sport Select 1
+https://tvs3.aynaott.com/ssps1hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="81", Star Sport Select 2
+https://tvs3.aynaott.com/ssps2hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="82", MTV
+https://tvs1.aynaott.com/mtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="84", Peace TV English HD
+https://tvs3.aynaott.com/peacetv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="101", Discovery Kids
+https://tvs1.aynaott.com/discovery_kids/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="102", Discovery Turbo
+https://tvs1.aynaott.com/discovery_turbo/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="103", Discovery Science
+https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="104", Animal Planet HD
+https://tvs1.aynaott.com/animal_planet_hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="105", Investigation Discovery HD
+https://tvs1.aynaott.com/id_hd_source/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="106", TLC HD
+https://tvs1.aynaott.com/tlc_hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="107", Discovery HD
+https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="108", Aljazeera News
+https://tvs1.aynaott.com/aljazeera/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="109", DW
+https://tvs1.aynaott.com/dwnews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="110", NHK World Japan
+https://tvs1.aynaott.com/nhkworld/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="111", TRT World
+https://tvs2.aynaott.com/TRTWorldHD/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="112", CNN
+https://tvs1.aynaott.com/cnn/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="113", BBC News
+https://tvs1.aynaott.com/bbcnews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="114", Cartoon Network
+https://tvs2.aynaott.com/cartoonnetwork/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="115", PBS Kids
+https://tvs2.aynaott.com/pbskids/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="116", WION
+https://tvs3.aynaott.com/wion/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="118", HBO
+https://tvs2.aynaott.com/hbo/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="119", Disney Channel
+https://tvs2.aynaott.com/disney/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="149", ZEE 24 Ghanta
+https://tvs1.aynaott.com/zee24/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="151", ZEE News
+https://tvs1.aynaott.com/zeenews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="154", Zee Cinema HD
+https://tvs1.aynaott.com/ZeeCinemaHD/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="162", Nat Geo TV
+https://tvs1.aynaott.com/natgeo/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="163", beIN SPORTS
+https://tvs1.aynaott.com/beinsports/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="165", Nicktoons
+https://tvs2.aynaott.com/nicktoons/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="166", Nick Jr.
+https://tvs2.aynaott.com/nickjr/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="167", BabyTV
+https://tvs1.aynaott.com/babytv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="168", BBC America
+https://tvs1.aynaott.com/bbcamerica/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="169", Bloomberg TV
+https://tvs1.aynaott.com/bloombergtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="170", Willow HD TV
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="171", ESPN
+https://tvs3.aynaott.com/espn/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="172", TSN 1
+https://tvs2.aynaott.com/tsn1/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="173", TSN 2
+https://tvs2.aynaott.com/tsn2/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="174", TSN 3
+https://tvs2.aynaott.com/tsn3/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="175", BT Sport 1
+https://tvs1.aynaott.com/btSport1/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="176", BT Sport 2
+https://tvs1.aynaott.com/btSport2/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="177", Fox Sports 1
+https://tvs3.aynaott.com/foxsports1/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="178", Fox Sports 2
+https://tvs3.aynaott.com/foxsports2/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="179", Movie live
+https://tvs2.aynaott.com/Movielive/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="180", Mastiii Music
+https://tvs1.aynaott.com/mastimusic/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="181", 9XM
+https://tvs1.aynaott.com/9xm/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="182", 9x Jalwa
+https://tvs1.aynaott.com/9xjalwa/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="187", Disney XD
+https://tvs3.aynaott.com/disneyXD/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="188", Fox News
+https://tvs1.aynaott.com/foxnews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="190", Travel XP
+https://tvs1.aynaott.com/travelxp/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="191", MSNBC News
+https://tvs1.aynaott.com/msnbc/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="193", Food Network
+https://tvs1.aynaott.com/foodnetwork/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="201", Makkah Live
+https://tvs1.aynaott.com/qurantv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="202", Madina Live
+https://tvs1.aynaott.com/sunnahtv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="203", 9x Jhakaas
+https://tvs1.aynaott.com/9X_Jhakaas/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="204", Aakaash 8
+https://tvs1.aynaott.com/aakaashBangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="205", Dhoom Music Bangla
+https://tvs1.aynaott.com/dhoom/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="207", HiDost
+https://tvs1.aynaott.com/HiDost/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="208", Manoranjan Movies
+https://tvs1.aynaott.com/ManoranjanMovies/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="209", Music India
+https://tvs1.aynaott.com/MusicIndia/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="210", News Time
+https://tvs1.aynaott.com/NewsTime/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="211", Rplus
+https://tvs1.aynaott.com/Rplus/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="212", Anjan TV
+https://tvs2.aynaott.com/AnjanTV/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="213", Rupshi Bangla
+https://tvs1.aynaott.com/RupshiBangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="216", 9X Tashan
+https://tvs1.aynaott.com/9X_Tashan/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="217", ANB News
+https://tvs1.aynaott.com/ANB_News/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="218", B4U Kadak
+https://tvs1.aynaott.com/B4U_Kadak/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="218", Dabangg
+https://tvs1.aynaott.com/Dabangg/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="220", Dhamaal
+https://tvs1.aynaott.com/Dhamaal/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="221", Dhinchaak
+https://tvs1.aynaott.com/Dhinchaak/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="222", Goldmines
+https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="223", Goldmines Bollywood
+https://tvs1.aynaott.com/GoldminesBollywood/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="224", Goldmines Movies
+https://tvs1.aynaott.com/GoldminesMovies/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="225", Khushboo
+https://tvs1.aynaott.com/Khushboo/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="226", TheQ
+https://tvs1.aynaott.com/TheQ/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="227", TV9 Bangla
+https://tvs1.aynaott.com/TV9Bangla/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="228", APN
+https://tvs1.aynaott.com/APN/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="230", Azzad TV
+https://tvs1.aynaott.com/AzzadTv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="231", Bflix
+https://tvs1.aynaott.com/Bflix/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="233", Dangal
+https://tvs1.aynaott.com/Dangal/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="234", Dangal 2
+https://tvs1.aynaott.com/Dangal2/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="235", Manoranjan TV
+https://tvs1.aynaott.com/ManoranjanTV/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="237", Network 10
+https://tvs1.aynaott.com/Network10/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="238", News 1 India
+https://tvs1.aynaott.com/News1India/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="239", Republic TV Bharat
+https://tvs1.aynaott.com/RepublicTVBharat/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="240", Sadhna Prime News
+https://tvs1.aynaott.com/SadhnaPrimeNews/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="241", Shemaroo TV
+https://tvs1.aynaott.com/ShemarooTV/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="246", India Voice
+https://tvs1.aynaott.com/IndiaVoice/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="250", Rongeen TV
+https://tvs2.aynaott.com/RongeenTV/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="251", Shemaroo Umang
+https://tvs2.aynaott.com/ShemarooUmang/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="252", Afghan TV
+https://tvs2.aynaott.com/AfghanTV/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="257", B4U Movies India
+https://tvs2.aynaott.com/B4U_Movies_India/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="261", NTV Itahari
+https://tvs2.aynaott.com/NTV_Itahari/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="263", B4U Hitz
+https://tvs2.aynaott.com/B4UHitz/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="264", Dhamaka Movies
+https://tvs2.aynaott.com/DhamakaMovies/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="277", ABC Spark
+https://tvs1.aynaott.com/aspark/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="278", TBS
+https://tvs1.aynaott.com/tbs/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="279", Fox 5
+https://tvs1.aynaott.com/fox5/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="280", Fox Business
+https://tvs1.aynaott.com/foxbusiness/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="281", The Weather Channel
+https://tvs1.aynaott.com/TheWeatherChannel/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="282", Sky Nature
+https://tvs1.aynaott.com/skynature/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="283", Pix11
+https://tvs1.aynaott.com/pix11/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="284", Amc
+https://tvs1.aynaott.com/amc/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="285", Revolt
+https://tvs1.aynaott.com/revolt/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="285", axs
+https://tvs1.aynaott.com/axs/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="286", ytv
+https://tvs1.aynaott.com/ytv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="287", Islam Channel
+https://tvs1.aynaott.com/islam/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="289", Kolkata TV
+https://tvs1.aynaott.com/kolkatatv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="291", Channel Win
+https://tvs1.aynaott.com/ChannelWin/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="79", PTV Sports
+https://tvs3.aynaott.com/wJf84zDS/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="117", A Sports
+https://tvs1.aynaott.com/asports/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="156", Zee Anmol Cinema
+https://tvs1.aynaott.com/ZeeAnmolCinema/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="157", Zee Classic
+https://tvs1.aynaott.com/zeeclassic/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="164", Zee Action
+https://tvs1.aynaott.com/ZeeAction/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="300", Zee Bangla Cinema
+https://tvs1.aynaott.com/ZeeBanglaCinema/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="185", Nickelodeon
+https://tvs3.aynaott.com/nicklodean/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="3", Sangshad TV
+https://tvs1.aynaott.com/sangshadtv/video.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="36", Green TV
+https://tvs1.aynaott.com/greentv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="40", Nagorik TV HD
+https://tvs1.aynaott.com/nagoriktv/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="44", Peace TV Bangla HD
+https://tvs2.aynaott.com/PeaceTvBanglaHD/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="214", Rplus Gold
+https://tvs1.aynaott.com/RplusGold/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="277", TV9 Bhara tvarsh
+https://tvs2.aynaott.com/TV9Bharatvarsh/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="290", Peace TV Urdu HD
+https://tvs1.aynaott.com/PeaceTVUrduHD/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="206", Dillagiii
+https://tvs1.aynaott.com/Dillagiii/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
+#EXTINF:-1 tvg-id="248", MtunesPlus
+https://tvs2.aynaott.com/MtunesPlus/index.m3u8?hdnts=st=1734270961~exp=1734273961~acl=/prantobhai/*~data=202.134.10.137-WEB~hmac=1ecf6ae2293fe0e09adc182edacc6c7321813ee30845fd855cfd2aab9e38d2c6
