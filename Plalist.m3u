@@ -37,8 +37,8 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdyellowpages.net/upload/15747695_1210463845686816_6805703572401730664_n.jpg" group-title="Grope Name", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8 
 
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Btv HD
-https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1734497846~exp=1734527846~acl=/btvhd/*~data=182.48.67.95-WEB~hmac=a8e6aedb89354cc4bcde75042661efe4a8bbe02c50a1acc581de3a9e1e6200d3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX3XSue9rhiGV6WaihT1GtCq8279LVsbPiCWxK5Yg1amfDX7IqQBkZbFJ&s=10" group-title="BANGLADESH", Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" tvg-id="<built-in function id>" group-title="BANGLADESH",Btv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" tvg-id="<built-in function id>" group-title="BANGLADESH", Ekushe Tv
 https://ekusheyserver.com/etvlivesn.m3u8
