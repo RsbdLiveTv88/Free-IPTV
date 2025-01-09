@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-G8jRhOR5BEytEy1Fi3lrdIZb2AF-BPVnfw&usqp=CAU" group-title="Grope Name", BPL LIVE
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=4olqvbKwNujho8UBC5VxPQ&expires=1736000687&user=d477246e9e724f81a011b847457e71c4 
+https://www.its-ferdos-alom.top/live/jadoo.php?id=gazi_tv_hd&e=.m3u8 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+https://www.its-ferdos-alom.top/live/jadoo.php?id=t_sports&e=.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=4olqvbKwNujho8UBC5VxPQ&expires=1736000687&user=d477246e9e724f81a011b847457e71c4
+https://www.its-ferdos-alom.top/live/jadoo.php?id=gazi_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEchGXENuMwBTg5Fn1t9IGfcG3Cv0-WN1AOdgjbsIs7wCCvC0A980QHpAd&s=10" group-title="Grope Name", A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8   
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4I28ckEcQFpxVvTYU_-9ZdR3fQqk8O9V0Q&usqp=CAU" group-title="Grope Name", PTV SPORTS
