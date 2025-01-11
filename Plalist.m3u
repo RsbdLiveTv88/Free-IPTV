@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-G8jRhOR5BEytEy1Fi3lrdIZb2AF-BPVnfw&usqp=CAU" group-title="Grope Name", BPL LIVE
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=HBr33--HaLUmT3q-faeMqA&expires=1736610293&user=d477246e9e724f81a011b847457e71c4 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OAdWU98Ovhev7iMq9SuUb1Q4QTW_i1fMwU_vNPpF1XV7vzvSVL10Fa6GZ4dUy4tuvw=w240-h480-rw" group-title="Grope Name", Tsports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=2ivb7iZUyTiMBzRmPfmoTg&expires=1736610304&user=d477246e9e724f81a011b847457e71c4
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510487.m3u8
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" tvg-id="<built-in function id>" group-title="𝙅𝙖𝙙𝙤𝙤 𝘿𝙞𝙜𝙞𝙩𝙖𝙡",Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=HBr33--HaLUmT3q-faeMqA&expires=1736610293&user=d477246e9e724f81a011b847457e71c4
 
@@ -21,6 +21,8 @@ http://180.92.238.118:8080/starjalsha/index.m3u8
 http://bapatv.live:8080/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F200%2F-%2FColors_Bengali_HD_voot.png&w=256&q=75" group-title="KOLKATA", Colours Bangla 
 http://watchindia.net:8880/live/55901/63571/2284.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWmM_wt8cky_gWUwJcWFCgr0C_riKa1d9IQ&s" group-title="Grope Name", SUN BANGLA 
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/510486.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU" group-title="Grope Name", Sananda Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FszS7Qz0/20241123-181647.png" group-title="Grope Name", Tara Bangla Cinema 
