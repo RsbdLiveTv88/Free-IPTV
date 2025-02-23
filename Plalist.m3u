@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQLt43s/20250223-173810.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Toffee Live
 https://fifabd.site/TOFxRANAPK/play.m3u8?id=match-2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
+http://161.248.188.101/willow_xtra/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/feature_banner/1719127157-LIVE-800.jpg" group-title="SPORTS", T Sports
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
 #EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ70gc3BAqVN0ygHenH_DE2EnWFyI-78CjqZYYUBJUmgvhs3WoFgHoCn9cN&s=10" group titel="Jadoo Digital", Desh Tv
