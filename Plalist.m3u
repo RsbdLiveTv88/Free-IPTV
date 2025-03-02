@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQLt43s/20250223-173810.png" group-title="LIVE EVEN", TOFFEE বাংলা
-https://the-nayeemparvez.xyz/jadoo/stream.php?id=nagorik_tv
-http://starshare.live/KVSingh/KVSingh/3802
-https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=49739
-https://cdn.kariratv.site/Gazi/index.m3u8
-https://news.otapp.store/foasu/vstream.php?id=dabc1264521d&e=.m3u8
-https://linkchur.top/tv/tf/live.php?id=match-2&e=.m3u8|Referer=https://linkchur.top/
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/tJRjNVcv/20250219-190226.png", Champion Trophy LIVE
 http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
