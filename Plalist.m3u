@@ -1,9 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqQLt43s/20250223-173810.png" group-title="LIVE EVEN", TOFFEE বাংলা
+https://the-nayeemparvez.xyz/jadoo/stream.php?id=nagorik_tv
+http://starshare.live/KVSingh/KVSingh/3802
+https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=49739
+https://cdn.kariratv.site/Gazi/index.m3u8
+https://news.otapp.store/foasu/vstream.php?id=dabc1264521d&e=.m3u8
+https://linkchur.top/tv/tf/live.php?id=match-2&e=.m3u8|Referer=https://linkchur.top/
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/tJRjNVcv/20250219-190226.png", Champion Trophy LIVE
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/1139.m3u8
+http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/1139.m3u8
+http://161.248.188.101/willow_xtra/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ70gc3BAqVN0ygHenH_DE2EnWFyI-78CjqZYYUBJUmgvhs3WoFgHoCn9cN&s=10" group-title="Jadoo",Desh Tv
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=OelX6X07e3p-4y6iXS2AOw&expires=1740785360&user=d477246e9e724f81a011b847457e71c4
