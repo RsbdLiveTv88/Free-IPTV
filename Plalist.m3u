@@ -5,6 +5,8 @@ http://server.top10bhaluka.com:100/sii/stream.m3u8?id=T-SPORTS&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
 http://161.248.188.101/willow_xtra/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png" group-title="KOLKATA", STAR JALSHA
+https://lifetvbd.xyz:8880/live/omor20/omor20/7982.m3u8
 
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ70gc3BAqVN0ygHenH_DE2EnWFyI-78CjqZYYUBJUmgvhs3WoFgHoCn9cN&s=10" group-title="Jadoo",Desh Tv
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=OelX6X07e3p-4y6iXS2AOw&expires=1740785360&user=d477246e9e724f81a011b847457e71c4
