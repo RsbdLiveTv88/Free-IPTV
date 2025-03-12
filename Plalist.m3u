@@ -15,3 +15,5 @@ http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3  
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
 http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS 
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
