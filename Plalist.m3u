@@ -2,13 +2,14 @@
 
 #EXTINF:-1 group-title="LIVE EVEN " tvg-logo="https://i.postimg.cc/tJRjNVcv/20250219-190226.png", Champion Trophy LIVE
 http://kst.moonplex.net:8080/CH2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0jP3FD3/20250223-204353.png" tvg-id="<built-in function id>" group-title="LIVE EVEN",Willow Sports
-http://tv.ksbnet.net/play.php?stream=102
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3W9qiYW7toPvoJs-jvG0zhxuFFp1EQq1OfHnMWGVQSzeH3bXz78Md696q&s=10" group-title="KOLKATA", STAR JALSHA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png" group-title="KOLKATA", STAR JALSHA
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp" group-title="KOLKATA", JALSHA MOVIES HD
 http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylaokf1TCdYunrrVZdAbn9A1lolFbzxMEmLAOGipEbT9xQaqF4-eo27nn&s=10" group-title="KOLKATA", SANANDA TV
+https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="KOLKATA", SONY AATH HD
 http://161.248.188.124:8080/Sonyaat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvHxJgsD/20250312-212636.png" group-title="BANGLADESH", Channel i
